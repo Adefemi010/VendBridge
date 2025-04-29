@@ -1,7 +1,7 @@
 ## VendBridge App Engagement & Performance Report
 ## Prepared by: Adefemi Adegbite – Data Analyst
 ## Period Covered: First 3 Months Post-Launch                                                            Date: 25th April 2025
-# 1.	Introduction
+### 1.	Introduction
 This report presents a comprehensive analysis of user engagement, adoption patterns, and system performance for the VendBridge app during its first three months post-launch. VendBridge, launched by NexaLink as a digital marketplace platform, has undergone significant marketing initiatives aimed at establishing a strong market presence and encouraging user adoption. The primary objective of this analysis is to derive actionable insights from the app’s key performance indicators (KPIs) using data-driven visualization and forecasting methods implemented in Tableau. These KPIs include total app installs, user sign-ups, uninstall rates, application stability (via crash data), daily active users (DAUs), transaction metrics, and average session durations. The analysis also incorporates regional performance comparisons and future activity forecasts. Through this report, we aim to illuminate both strengths and opportunities in the app’s user journey, highlight areas requiring optimization, and support informed decision-making for product refinement, marketing strategy, and user retention initiatives.
 2.	Methodology
 To analyze the performance and user engagement of the VendBridge app, a structured and data-driven approach was applied using Tableau as the primary analytics tool. The methodology comprised the following key components:
