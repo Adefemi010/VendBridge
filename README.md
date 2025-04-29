@@ -30,13 +30,13 @@ This methodological framework ensured both a high-level and granular view of use
  
 
 #### i.	Installations & Signups Over Time:
- [VendBridge_Engagement_Report.pptx](https://github.com/user-attachments/files/19964604/VendBridge_Engagement_Report.pptx)
+![Overview](https://github.com/user-attachments/assets/97383138-ccb3-4982-8a36-6dbfb4f8d1ed)
 
  The data reveals consistent growth in both app installations and user signups, though at slightly varying rates. From June to July, app installations grew by 9%, followed by an 8.9% increase from July to August. User signups showed similar but more modest growth patterns, with a 7% increase between June and July and a 5.3% rise from July to August. This parallel growth trajectory indicates that while the app is successfully attracting new users, the conversion rate from installation to signup shows room for improvement, particularly in the July-August period where the signup growth rate lagged slightly further behind installations.
 The data also reveals consistent growth in both app installations and user signups, though at slightly varying rates. From June to July, app installations grew by 9%, followed by an 8.9% increase from July to August. User signups showed similar but more modest growth patterns, with a 7% increase between June and July and a 5.3% rise from July to August. This parallel growth trajectory indicates that while the app is successfully attracting new users, the conversion rate from installation to signup shows room for improvement, particularly in the July-August period where the signup growth rate lagged slightly further behind installations.
 The comparison between the Total App Installs and Total User Signups graphs reveals important insights about VendBridge user acquisition funnel and conversion effectiveness. Both metrics demonstrate strong growth from June to August, but with distinct patterns that highlight opportunities for optimization. While installations grew from 1.6 million to1.98 million, signups grew from 1.07 million to 1.21million, representing complete market penetration from launch. Both the signup and installation graph exhibited pronounced daily fluctuations resulting into noticeable dip. 
 #### ii.	Uninstallation and App crashes over time
-[VendBridge-App-Engagement-and-Performance-Report.pptx](https://github.com/user-attachments/files/19964611/VendBridge-App-Engagement-and-Performance-Report.pptx)
+![Engagement](https://github.com/user-attachments/assets/8c34a003-fde1-4648-8c93-1de87772f61f)
 
 The comparative analysis of the App Crashes and Uninstalls graphs reveals a clear, concerning relationship between technical stability and user retention. Both metrics follow nearly identical trajectories over time, moving through three distinct phases. During the initial June period, the app maintained average stability with fewer than 2700 daily crashes and minimal uninstalls, representing a smooth launch phase. 
 The decrease in churn rate from 1.2% to 1.1% represents a meaningful improvement in user retention. This positive trend suggests that recent product or operational changes may be effectively addressing previous pain points in the user experience. The improvement, while modest in absolute terms, could translate to significant long-term value when compounded across VendBridge growing user base.
@@ -49,7 +49,8 @@ The data reveals that Android users significantly outnumber iOS users in driving
 
 ### 4.	Regional Performance Scorecard
 
- [App-Performance-Optimization-Strategy.pptx](https://github.com/user-attachments/files/19964620/App-Performance-Optimization-Strategy.pptx)
+![LeaderBoard](https://github.com/user-attachments/assets/debb9ee1-8eab-400f-a46a-8705e755fea6)
+
 
 #### i.	Regional Ranking
 
@@ -63,7 +64,7 @@ EMEA follows the US in most positive engagement metrics, with strong numbers in 
 APAC and LATAM present contrasting pictures of emerging markets. APAC shows concerning metrics across the board low average daily active users (2,692), few average transactions (1,463), and high uninstalls (7,839) despite moderate time spent (96 minutes). This suggests users try the platform but don't find enough value to remain active. LATAM, while having the lowest user numbers (1,787 ADAU), shows promising signs with the lowest uninstall  (4,844) and relatively high time spent (98 minutes), indicating better retention of its smaller user base. Interestingly, LATAM's crash numbers (49,740) don't seem to impact retention as severely, potentially pointing to different user tolerance levels or implementation of effective recovery mechanisms in this market.
 
 #### 5.	 Forecast
-[Key-Takeaways-and-Next-Steps.pptx](https://github.com/user-attachments/files/19964629/Key-Takeaways-and-Next-Steps.pptx)
+![Forecast](https://github.com/user-attachments/assets/d2f4249f-bd03-4417-b8cb-2122ae28b515)
 
 The 30-day forecast chart projects growth trends for three critical metrics Daily Active Users (DAU), Transactions, and Total App Installs from June to early September. All three metrics demonstrate steady trajectories, indicating sustained platform growth. The parallel movement of these trends suggests a strong correlation between user acquisition, engagement and monetization, where increasing installs lead to higher active usage, which in turn drives more transactions. 
 
